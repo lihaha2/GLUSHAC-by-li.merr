@@ -13,9 +13,9 @@
 }
 
 body{
-  margin: 0;
-  display: flex;
-  justify-content: center;
+  margin: 0 auto;
+  /* display: flex;
+  justify-content: center; */
 }
 
 header{
@@ -40,6 +40,7 @@ footer{
 }
 
 .content{
+  margin: 0 auto;
   z-index: 1;
   position: relative;
   padding: 50px 60px 60px 60px;
